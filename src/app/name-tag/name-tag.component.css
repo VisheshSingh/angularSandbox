@@ -1,0 +1,12 @@
+.nametag-container{
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    background: #444;
+    color: #fff;
+    display: inline-block;
+    margin:5px;
+    font-family: sans-serif;
+}
