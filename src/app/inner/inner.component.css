@@ -1,0 +1,11 @@
+.inner {
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    background: red;
+    color: #fff;
+    padding: 5px;
+    display: inline-block;
+    margin: 5px;
+}
