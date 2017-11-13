@@ -8,4 +8,9 @@ import { Component } from '@angular/core';
 export class AppComponent {
   names = ['jared', 'jane', 'nathan'];
   title = 'app';
+  name:string = '';
+
+  eventFromOuter(passed:string){
+    this.name = passed;
+  }
 }
